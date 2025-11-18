@@ -173,3 +173,8 @@
 
 ### Game Cheats Manager v2.3.1
 - 开源游戏修改器管理工具，优化用户体验和修改器管理，适合收藏和使用多款修改器。🔗 [官网](https://github.com/dyang886/Game-Cheats-Manager) ｜ [GitHub](https://github.com/dyang886/Game-Cheats-Manager)
+
+## 测试
+
+### 测试
+- 测试 🔗 [官网](https://www.baidu.com) ｜ [GitHub](https://www.baidu.com)
